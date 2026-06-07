@@ -4,7 +4,7 @@ My IT Support learning portfolio and troubleshooting documentation.
 This repository contains troubleshooting guides and notes from my IT Support learning journey. 
 ## Topics
 
-- Windows Troubleshooting
+- [Windows Troubleshooting] (windows-troubleshooting.md)
 - Networking Basics
 - PowerShell
 - Help Desk Procedures
