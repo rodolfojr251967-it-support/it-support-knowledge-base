@@ -3,9 +3,9 @@
 ## 1. Common Command-Line Tools
 Here are the essential commands used to fix corrupted system files:
 
-- 'sfc /scannow' - Scans and repairs corrupted windows system files.
+- 'sfc /scannow' - Scans and repairs corrupted Windows system files.
 - 'chkdsk /f /r' - Check the hard drive for file system errors and bad sectors.
--  'DISM /Online /Cleanup-Image /RestoreHealth' - Repairs the windows system image using Windows Update.
+-  'DISM /Online /Cleanup-Image /RestoreHealth' - Repairs the Windows system image using Windows Update.
 
 ## 2. Active Directory Issues
 - Notes on resolving domain join errors:
